@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BrickGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrickGame_jar</output-path>
+    <root id="archive" name="BrickGame.jar">
+      <element id="module-output" name="BrickGame" />
+    </root>
+  </artifact>
+</component>
